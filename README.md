@@ -9,6 +9,9 @@ The website consists of three main files: `index.html`, `style.css`, and `script
 
 To view the webpage, simply open the `index.html` file in a web browser. The webpage should display the content with the styling and functionality provided by the CSS and JavaScript files.
 
+## Deploy/Use
+go to this link: http://oscarmdeveloper.rf.gd
+
 ### Translations
 
 #### English
